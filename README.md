@@ -6,11 +6,11 @@ Create a GitHub repo called "DSA-BST". Save all this work in the repo and submit
 
 - Given the data `3,1,4,6,9,2,5,7`, if you were to insert this into an empty binary search tree, what would the tree look like? (Draw the tree, no coding needed here.)
 
-![3,1,4,6,9,2,5,7 BST](images/image0.jpeg)
+![3,1,4,6,9,2,5,7 BST](https://user-images.githubusercontent.com/64292589/107583740-61e61800-6bc9-11eb-9953-21f05b8b34e9.jpeg)
 
 - Draw the BST with the keys - E A S Y Q U E S T I O N
 
-![easyquestionBST](./images/image1.jpeg)
+![E A S Y Q U E S T I O N BST](https://user-images.githubusercontent.com/64292589/107583770-6b6f8000-6bc9-11eb-92df-4bd1cbd5c599.jpeg)
 
 ## 2. Remove the root
 

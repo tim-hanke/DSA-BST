@@ -4,9 +4,13 @@ Create a GitHub repo called "DSA-BST". Save all this work in the repo and submit
 
 ## 1. Draw a BST
 
-- Given the data 3,1,4,6,9,2,5,7, if you were to insert this into an empty binary search tree, what would the tree look like? (Draw the tree, no coding needed here.)
+- Given the data `3,1,4,6,9,2,5,7`, if you were to insert this into an empty binary search tree, what would the tree look like? (Draw the tree, no coding needed here.)
+
+![3,1,4,6,9,2,5,7 BST](images/image0.jpeg)
 
 - Draw the BST with the keys - E A S Y Q U E S T I O N
+
+![easyquestionBST](./images/image1.jpeg)
 
 ## 2. Remove the root
 
